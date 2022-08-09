@@ -49,7 +49,7 @@ const Cards = () => {
     const [secondRow, setSecondRow] = useState(secondRowData)
     return (
         <div className="cards">
-            <h1>Check out these places Bruh</h1>
+            <h1>Check out these places</h1>
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
